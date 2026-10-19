@@ -1,7 +1,3 @@
-# namaheta-seteh490.github.io
-[index.html](https://github.com/user-attachments/files/33667960/index.html)
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
